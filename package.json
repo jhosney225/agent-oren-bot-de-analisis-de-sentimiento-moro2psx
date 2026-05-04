@@ -1,0 +1,6 @@
+{
+  "name": "agent-oren-bot-de-analisis-de-sentimiento-moro2psx",
+  "version": "1.0.0",
+  "description": "Proyecto de Oren [Gen13]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
